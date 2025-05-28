@@ -170,7 +170,7 @@ footer a:hover {
     }
 }
 
-@media screen and (max-width; 500px) {
+@media screen and (max-width: 500px) {
     .resume header::before {
         height: 200px;
     }
